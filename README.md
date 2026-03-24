@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="wallpaper.png" width="800" alt="Profile Photo"/>
+  <img src="wallpaper.png" width="1000" alt="Profile Photo"/>
 </p>
 
 - PhD student at NTU, majoring in Computer Science
