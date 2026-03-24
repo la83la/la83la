@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="wallpaper.png" width="200" alt="Profile Photo"/>
+  <img src="wallpaper.png" width="400" alt="Profile Photo"/>
 </p>
 
 <h1 align="center">Hi there, I'm Lala 👋</h1>
