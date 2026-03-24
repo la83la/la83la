@@ -1,9 +1,6 @@
 <p align="center">
-  <img src="wallpaper.png" width="400" alt="Profile Photo"/>
+  <img src="wallpaper.png" width="800" alt="Profile Photo"/>
 </p>
-
-<h1 align="center">Hi there, I'm Lala 👋</h1>
-
 
 - PhD student at NTU, majoring in Computer Science
 - Broadly interested in AI and its real-world applications, with a current focus on finance-related problems
